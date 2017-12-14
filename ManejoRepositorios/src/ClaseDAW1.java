@@ -8,7 +8,7 @@ public class ClaseDAW1 {
 		String al02_SergioArrey="";
 		String al03_AndreiAvasiloaiei ="";
 		String al04_AlexBerodia = "";
-		String al05_CristinaBlanco = "";
+		String al05_CristinaBlanco = "Criis Blanco";
 		String al06_BarbaraBolado = "";
 		String al07_IvanCasado = "Iván Casado";
 		String al08_RubenCayon = "";
